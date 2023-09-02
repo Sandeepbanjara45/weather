@@ -1,0 +1,14 @@
+.imgg{
+    background-image: url("https://cdn.pixabay.com/photo/2015/07/05/10/18/tree-832079_640.jpg");
+    margin-top: 12%;
+    position: relative;
+    left: 28%;
+}
+.bb{
+    margin-top: 10%;
+    align-self: center;
+}
+
+body{
+    background-color: whitesmoke;
+}
